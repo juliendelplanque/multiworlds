@@ -1,0 +1,15 @@
+{
+	"category" : "MultiWorlds-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 8/25/2015 14:08",
+	"instvars" : [
+		"previousWorld",
+		"newWorld" ],
+	"name" : "WorldChanged",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

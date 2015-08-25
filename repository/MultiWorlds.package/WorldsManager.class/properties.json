@@ -1,0 +1,17 @@
+{
+	"category" : "MultiWorlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"UniqueInstance" ],
+	"commentStamp" : "JulienDelplanque 8/25/2015 14:02",
+	"instvars" : [
+		"worlds",
+		"worldIndex",
+		"pharoImage",
+		"announcer" ],
+	"name" : "WorldsManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

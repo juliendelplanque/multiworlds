@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"install" : "JulienDelplanque 8/25/2015 16:30",
+		"isInstalled" : "JulienDelplanque 8/25/2015 15:19",
+		"keymapNextDesktopAction" : "JulienDelplanque 8/25/2015 16:27",
+		"keymapPreviousDesktopAction" : "JulienDelplanque 8/25/2015 16:26",
+		"nextWorldShortcut" : "JulienDelplanque 8/25/2015 16:40",
+		"nextWorldShortcut:" : "JulienDelplanque 8/25/2015 16:40",
+		"previousWorldShortcut" : "JulienDelplanque 8/25/2015 16:40",
+		"previousWorldShortcut:" : "JulienDelplanque 8/25/2015 16:40",
+		"reinstall" : "JulienDelplanque 8/25/2015 13:43",
+		"uninstall" : "JulienDelplanque 8/25/2015 16:52" },
+	"instance" : {
+		"keymapNextDesktop" : "JulienDelplanque 8/25/2015 16:40",
+		"keymapPreviousDesktop" : "JulienDelplanque 8/25/2015 16:40" } }

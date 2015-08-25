@@ -1,0 +1,15 @@
+{
+	"category" : "MultiWorlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"NextDesktopShortcut",
+		"PreviousDesktopShortcut" ],
+	"commentStamp" : "JulienDelplanque 8/25/2015 13:53",
+	"instvars" : [
+		 ],
+	"name" : "WorldsCategory",
+	"pools" : [
+		 ],
+	"super" : "KMCategory",
+	"type" : "normal" }
