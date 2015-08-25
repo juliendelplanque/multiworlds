@@ -5,7 +5,7 @@
 	"classvars" : [
 		"NextDesktopShortcut",
 		"PreviousDesktopShortcut" ],
-	"commentStamp" : "JulienDelplanque 8/25/2015 13:53",
+	"commentStamp" : "JulienDelplanque 8/25/2015 17:05",
 	"instvars" : [
 		 ],
 	"name" : "WorldsCategory",
