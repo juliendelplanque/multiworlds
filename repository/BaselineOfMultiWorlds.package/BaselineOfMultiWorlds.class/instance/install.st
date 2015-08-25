@@ -1,4 +1,6 @@
 installation
 install
 	"Install shortcuts."
-	WorldsCategory install
+	WorldsCategory install.
+	
+	UIManager default inform: 'MultiWorlds installed.'
