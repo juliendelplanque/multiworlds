@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMultiWorlds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMultiWorlds",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
